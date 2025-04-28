@@ -7,7 +7,7 @@ public class App {
         smartTv.diminuirVolume();
         smartTv.aumentarVolume();
 
-        //System.out.println("Canal atual: " + smartTv.canal);
+        System.out.println("Canal atual: " + smartTv.canal);
         smartTv.mudarCanal(13);
         System.out.println("Volume atual: V o lume atual: " + smartTv.volume);
 
